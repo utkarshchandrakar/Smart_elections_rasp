@@ -2,8 +2,7 @@
 Please answer the following questions for yourself before submitting an issue.
 
 - [ ] I am running the latest version
-- [ ] I checked to make sure that this issue has not already been filed
-- [ ] I'm reporting the issue to the correct repository 
+
 
 # Expected Behavior
 
@@ -29,12 +28,10 @@ Please provide detailed steps for reproducing the issue.
 
 Please provide any relevant information about your setup. This is important in case the issue is not reproducible except for under certain conditions.
 
-* RasberryPi version:
-* Node-RED version:
-* Firmware Version:
-* Operating System:
-* SDK version:
+* RasberryPi version: MODEL 3B+
+* Node-RED version: 0.19
+* Firmware Version: 3.8.4-3.8.7
+* Operating System: PI os
+* SDK version: ARM V6
 
-## Failure Logs
 
-Please include any relevant log snippets or files here.
